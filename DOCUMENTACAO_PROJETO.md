@@ -10,14 +10,14 @@
 **NOME DA EQUIPE:** Lynn Core Engineering Team  
 **CURSO:** Análise e Desenvolvimento de Sistemas / Engenharia de Software  
 **DISCIPLINA:** Java Architecture & Enterprise Application Development  
-**ANO/SEMESTRE:** 2026 - 1º Semestre  
+**ANO/SEMESTRE:** 2026 - 2º Semestre  
 
 **INTEGRANTES DO GRUPO:**
-- Integrante 1: [Nome Completo] - RM: [Número do RM]
-- Integrante 2: [Nome Completo] - RM: [Número do RM]
-- Integrante 3: [Nome Completo] - RM: [Número do RM]
-- Integrante 4: [Nome Completo] - RM: [Número do RM]
-- Integrante 5: [Nome Completo] - RM: [Número do RM]
+- Integrante 1: Lucas Cavalcante - RM: 562857
+- Integrante 2: Matheus Rodrigues - RM: 561689
+- Integrante 3: Caio Nascimento Batista - RM: 561383
+- Integrante 4: Manoah Leão - RM: 563713
+- Integrante 5: Jean Pierre - RM: 566534
 
 ---
 
